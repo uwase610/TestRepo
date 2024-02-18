@@ -1,0 +1,14 @@
+Setting up Rep:
+Git init
+Git clone
+
+Save changes:
+Git add
+Git commit
+
+Inspect repo:
+Git status
+
+Parallel dvlpt:
+Git branch
+Git merge
